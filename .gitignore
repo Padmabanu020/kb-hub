@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+backend/vector_store/
+node_modules/
+dist/
+.venv/
