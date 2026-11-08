@@ -6,3 +6,5 @@ backend/vector_store/
 node_modules/
 dist/
 .venv/
+demo/*.mp4
+*.mp4
