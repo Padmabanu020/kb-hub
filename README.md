@@ -106,9 +106,9 @@ If an LLM is unavailable, the API uses a regex-based fallback extractor so that 
 
 The following screenshots demonstrate the main features of Knowledge Base Hub.
 
-### 1. harvested url
+### 1. Harvested URLs
 
-![Knowledge Base Hub Dashboard](screenshots/harvested-url.png.png)
+![Harvested URLs](screenshots/harvested-urls.png)
 
 ### 2. URL Upload and Ingestion
 
